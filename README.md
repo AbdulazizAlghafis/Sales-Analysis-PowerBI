@@ -3,7 +3,7 @@
 ## 📊 Overview
 This project presents an interactive sales dashboard built using Power BI to analyze sales performance, profitability, products, categories, and regional performance.
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](image.png)
 
 ## 🔍 Key Insights
 - Total Sales: **161.65K**
